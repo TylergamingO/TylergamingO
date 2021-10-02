@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Node.js js php and python
 - 💞️ I’m looking to collaborate on Discord 
 - 📫 How to reach me N/A
+- =
 
 <!---
 TylergamingO/TylergamingO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
